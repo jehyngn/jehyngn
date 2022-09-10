@@ -4,7 +4,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=wpgud1227)](https://solved.ac/wpgud1227)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jehyngn&layout=compact&theme=merko)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jehyngn&layout=compact&theme=tokyonight)
 
 <!--
 **jehyngn/jehyngn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
