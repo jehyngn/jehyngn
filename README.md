@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=K-Junyyy&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jehyngn&layout=compact&theme=tokyonight)
+![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=K-Junyyy&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jehyngn&layout=compact&theme=tokyonight)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=wpgud1227)](https://solved.ac/wpgud1227)
 
